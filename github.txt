@@ -1,0 +1,18 @@
+-> What is github?
+
+- While Git is a tool for tracking changes in code locally on a computer, GitHub takes it a step further by bringing this process to the cloud. Its a web-based hosting service for Git repositories. In simpler terms, GitHub is a platform that hosts code and facilitates collaboration with others.
+
+- GitHub allows developers to push their local code repositories to remote servers, providing a backup of their local data and enabling other developers to collaborate on the same project without stepping on each others toes. It introduces an easy way to contribute to projects, propose changes or report issues. Every repository on GitHub has its own URL, making it easy to share projects with others.
+
+-> Some Features of Github
+* Hosting Repositories: GitHub allows users to host Git repositories online, 
+making it easy for teams to collaborate and share code.
+
+* Collaboration Tools: GitHub offers features like pull requests, issues, 
+and discussions to facilitate collaboration and communication among team members.
+
+* Continuous Integration: GitHub integrates with continuous integration tools, 
+automating the testing and deployment processes to ensure code quality.
+
+* Community and Open Source: GitHub has become a hub for open-source development,
+ allowing developers to contribute to and discover a vast array of projects.

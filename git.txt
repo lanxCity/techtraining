@@ -1,0 +1,14 @@
+-> Git is a free and open source tool or software used to keep track any changes made in a particular file and why the change is made. it operates on the principle of creating snapshots or "commits" of a code or source file at different stages, allowing one to revert to previous versions of the file if needed. 
+
+As a result, Git is considered a version control system, and it is a free and open-source VCS that allows one to manage a project and work with other developers as a team in the same workspace.
+
+-> Features of Git
+* On the command line, create a "repository" or project directory with a git, OR copy (clone) the repository to your local machine
+* Add a file to your local repo and "commit" (save) the changes
+* "Push" your changes to your main branch
+* Make a change to your file with a git hosting tool and commit
+* "Pull" the changes to your local machine
+* Create a "branch" (version), make a change, commit the change
+* Open a "pull request" (propose changes to the main branch)
+* If a branch is created, "merge" your branch to the main branch.
+ 
